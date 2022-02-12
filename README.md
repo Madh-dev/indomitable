@@ -5,3 +5,4 @@ This tutorial focuses mainly on Git and using GutHub as its remote
  Thisrepository is built step by step in the tutorial.
  
  It now includes steps for GitHub
+Always stage before you commit
